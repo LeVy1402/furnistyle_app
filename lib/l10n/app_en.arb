@@ -1,0 +1,11 @@
+{
+  "@common": {
+    "search": "Search"
+  },
+  "@homePage": {
+    "goodMorning": "Good Morning",
+    "specialOffers": "Special Offers",
+    "seeAll": "See All",
+    "mostPopular": "Most Popular"
+  }
+}
